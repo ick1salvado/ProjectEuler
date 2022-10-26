@@ -13,10 +13,12 @@ problems and read a more detailed description at the official [Project Euler](ht
 
 ### How is this Repository Formatted?
 I organize each problem in folders containing various files:
-- Explanations File: In this file I describe the solutions I have created in detail for each language I used.
-- Various Problem Files (Solutions): These files will have the same name, but differ in the file extension where
+- **Explanations File:** In this file I describe the solutions I have created in detail for each language I used.
+- **Various Problem Files (Solutions):** These files will have the same name, but differ in the file extension where
 the solution can be viewed in various programming languages.
-- Math_Explanation File: If I feel it necessary (or just interesting :) ), there will be a file that contains my 
+- **ProblemDefinition:** This is where the exact problem is shown in the exact same manner that it would appear in 
+Project Euler.
+- **Math_Explanation File:** If I feel it necessary (or just interesting :) ), there will be a file that contains my 
 mathematical definition for the solution of a problem with a description and mathematical expression.
 
 Each of these Problem folders will be ordered in folders numbering by 10's (1-10, 11-20...).
