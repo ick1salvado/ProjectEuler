@@ -22,6 +22,7 @@ Project Euler.
 mathematical definition for the solution of a problem with a description and mathematical expression.
 
 Each of these Problem folders will be ordered in folders numbering by 10's (1-10, 11-20...).
+I will try to add as many languages as I can.
 
 #### P.S: 
 I am by no means a good programmer **:)** and these solutions are most likely far less than optimal, but they
