@@ -19,7 +19,8 @@ the solution can be viewed in various programming languages.
 - **ProblemDefinition:** This is where the exact problem is shown in the exact same manner that it would appear in 
 Project Euler.
 - **Math_Explanation File:** If I feel it necessary (or just interesting :) ), there will be a file that contains my 
-mathematical definition for the solution of a problem with a description and mathematical expression.
+mathematical definition for the solution of a problem with a description and mathematical expression. If in the 
+Explanation File there is *(ME)* next to a part of the explanation it implies that I have added onto it in this file. 
 
 Each of these Problem folders will be ordered in folders numbering by 10's (1-10, 11-20...).
 I will try to add as many languages as I can.
