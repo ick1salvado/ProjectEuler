@@ -1,6 +1,6 @@
 ## C++
   This solution to the problem consists of two parts: the first part being the function
-  ```isPrime```: now this function can also be seperated into two parts
+  ```isPrime```, this function can also be seperated into two parts:
   ``` C++
     if(num <= 1) return false;
     if(num <= 3) return true;
@@ -39,5 +39,10 @@
   when the `ith` number is prime and a multiple of the given target value ***600851475143***
   
 ## Python
-
+  My solution in python is in essence the same as the C++ solution, first it starts by defining the function ```isPrime```
+  that first checks if the answer is a positive integer, then preforms the same logic of summing 6 through the iterations
+  whilst checking that prime and the one direcly next to it (+2 from the current prime). 
+  
 ## Java
+  The Java solution is basically the same as the C++ solution, although instead of working with integer values we use
+  the long data type as the numbers are greater than the java integer limit.
